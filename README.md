@@ -1,5 +1,4 @@
 # Cadence-content-pipeline
-Based on the structure and contents visible in the [will-kelly/Cadence-content-pipeline](https://github.com/will-kelly/Cadence-content-pipeline) repository, here is an overview of its design and workflow:
 
 **Primary Purpose**
 The **Cadence Content Pipeline** is a structured, prompt-driven content generation framework built specifically for **Claude**. It standardizes the end-to-end process of intaking, drafting, filtering, and distributing marketing or brand content across multiple channels while maintaining a consistent voice and human-like quality.
